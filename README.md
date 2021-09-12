@@ -17,5 +17,5 @@
 
   ##
   
-- 🔭 Atualmente trabalhando no meu <a href="https://github.com/pdrocarvalho/me-guia" target="blank">TCC</a>
+- 🔭 Atualmente trabalhando no meu TCC
 - 🌱 Mergulhando de cabeça em JavaScript
